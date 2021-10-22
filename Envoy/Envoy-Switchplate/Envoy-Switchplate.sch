@@ -1,0 +1,357 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 61511883
+P 4750 2600
+F 0 "MX1" H 4783 2823 60  0000 C CNN
+F 1 "MX-NoLED" H 4783 2749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4125 2575 60  0001 C CNN
+F 3 "" H 4125 2575 60  0001 C CNN
+	1    4750 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 615125AC
+P 5400 2600
+F 0 "MX2" H 5433 2823 60  0000 C CNN
+F 1 "MX-NoLED" H 5433 2749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4775 2575 60  0001 C CNN
+F 3 "" H 4775 2575 60  0001 C CNN
+	1    5400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 61513215
+P 6050 2600
+F 0 "MX3" H 6083 2823 60  0000 C CNN
+F 1 "MX-NoLED" H 6083 2749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 5425 2575 60  0001 C CNN
+F 3 "" H 5425 2575 60  0001 C CNN
+	1    6050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 6152424A
+P 6650 2600
+F 0 "MX4" H 6683 2823 60  0000 C CNN
+F 1 "MX-NoLED" H 6683 2749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 6025 2575 60  0001 C CNN
+F 3 "" H 6025 2575 60  0001 C CNN
+	1    6650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8
+U 1 1 61525046
+P 6650 3100
+F 0 "MX8" H 6683 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 6683 3249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 6025 3075 60  0001 C CNN
+F 3 "" H 6025 3075 60  0001 C CNN
+	1    6650 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX11
+U 1 1 61523568
+P 6050 3600
+F 0 "MX11" H 6083 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 6083 3749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 5425 3575 60  0001 C CNN
+F 3 "" H 5425 3575 60  0001 C CNN
+	1    6050 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX10
+U 1 1 61523562
+P 5400 3600
+F 0 "MX10" H 5433 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 5433 3749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4775 3575 60  0001 C CNN
+F 3 "" H 4775 3575 60  0001 C CNN
+	1    5400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX9
+U 1 1 6152355C
+P 4750 3600
+F 0 "MX9" H 4783 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 4783 3749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4125 3575 60  0001 C CNN
+F 3 "" H 4125 3575 60  0001 C CNN
+	1    4750 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX7
+U 1 1 615204AA
+P 6050 3100
+F 0 "MX7" H 6083 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 6083 3249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 5425 3075 60  0001 C CNN
+F 3 "" H 5425 3075 60  0001 C CNN
+	1    6050 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX6
+U 1 1 615204A4
+P 5400 3100
+F 0 "MX6" H 5433 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 5433 3249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4775 3075 60  0001 C CNN
+F 3 "" H 4775 3075 60  0001 C CNN
+	1    5400 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX5
+U 1 1 6152049E
+P 4750 3100
+F 0 "MX5" H 4783 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 4783 3249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4125 3075 60  0001 C CNN
+F 3 "" H 4125 3075 60  0001 C CNN
+	1    4750 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX15
+U 1 1 6152D914
+P 6050 4100
+F 0 "MX15" H 6083 4323 60  0000 C CNN
+F 1 "MX-NoLED" H 6083 4249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 5425 4075 60  0001 C CNN
+F 3 "" H 5425 4075 60  0001 C CNN
+	1    6050 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX14
+U 1 1 6152D91A
+P 5400 4100
+F 0 "MX14" H 5433 4323 60  0000 C CNN
+F 1 "MX-NoLED" H 5433 4249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4775 4075 60  0001 C CNN
+F 3 "" H 4775 4075 60  0001 C CNN
+	1    5400 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX13
+U 1 1 6152D920
+P 4750 4100
+F 0 "MX13" H 4783 4323 60  0000 C CNN
+F 1 "MX-NoLED" H 4783 4249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4125 4075 60  0001 C CNN
+F 3 "" H 4125 4075 60  0001 C CNN
+	1    4750 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX20
+U 1 1 615324B8
+P 6650 4600
+F 0 "MX20" H 6683 4823 60  0000 C CNN
+F 1 "MX-NoLED" H 6683 4749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 6025 4575 60  0001 C CNN
+F 3 "" H 6025 4575 60  0001 C CNN
+	1    6650 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX19
+U 1 1 615324D0
+P 6050 4600
+F 0 "MX19" H 6083 4823 60  0000 C CNN
+F 1 "MX-NoLED" H 6083 4749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 5425 4575 60  0001 C CNN
+F 3 "" H 5425 4575 60  0001 C CNN
+	1    6050 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX18
+U 1 1 615324D6
+P 5400 4600
+F 0 "MX18" H 5433 4823 60  0000 C CNN
+F 1 "MX-NoLED" H 5433 4749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4775 4575 60  0001 C CNN
+F 3 "" H 4775 4575 60  0001 C CNN
+	1    5400 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX17
+U 1 1 615324DC
+P 4750 4600
+F 0 "MX17" H 4783 4823 60  0000 C CNN
+F 1 "MX-NoLED" H 4783 4749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 4125 4575 60  0001 C CNN
+F 3 "" H 4125 4575 60  0001 C CNN
+	1    4750 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 61533908
+P 6650 3600
+F 0 "MX12" H 6683 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 6683 3749 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 6025 3575 60  0001 C CNN
+F 3 "" H 6025 3575 60  0001 C CNN
+	1    6650 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch ENC1
+U 1 1 6158870B
+P 7900 2650
+F 0 "ENC1" V 7854 2880 50  0000 L CNN
+F 1 "Rotary_Encoder_Switch" V 7945 2880 50  0000 L CNN
+F 2 "Envoy:RotaryEncoder_Cutout" H 7750 2810 50  0001 C CNN
+F 3 "~" H 7900 2910 50  0001 C CNN
+	1    7900 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch ENC2
+U 1 1 6158A842
+P 7900 3150
+F 0 "ENC2" V 7854 3380 50  0000 L CNN
+F 1 "Rotary_Encoder_Switch" V 7945 3380 50  0000 L CNN
+F 2 "Envoy:RotaryEncoder_Cutout" H 7750 3310 50  0001 C CNN
+F 3 "~" H 7900 3410 50  0001 C CNN
+	1    7900 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch ENC3
+U 1 1 6158BB8C
+P 7900 3650
+F 0 "ENC3" V 7854 3880 50  0000 L CNN
+F 1 "Rotary_Encoder_Switch" V 7945 3880 50  0000 L CNN
+F 2 "Envoy:RotaryEncoder_Cutout" H 7750 3810 50  0001 C CNN
+F 3 "~" H 7900 3910 50  0001 C CNN
+	1    7900 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch ENC4
+U 1 1 6158C682
+P 7900 4150
+F 0 "ENC4" H 7900 3783 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 7900 3874 50  0000 C CNN
+F 2 "Envoy:RotaryEncoder_Cutout" H 7750 4310 50  0001 C CNN
+F 3 "~" H 7900 4410 50  0001 C CNN
+	1    7900 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX17-2u1
+U 1 1 6169E769
+P 4750 5150
+F 0 "MX17-2u1" H 4783 5373 60  0000 C CNN
+F 1 "MX-NoLED" H 4783 5299 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout-2u_with_reversed_stabilizer" H 4125 5125 60  0001 C CNN
+F 3 "" H 4125 5125 60  0001 C CNN
+	1    4750 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX16-2u1
+U 1 1 6169F092
+P 7050 4100
+F 0 "MX16-2u1" H 7083 4323 60  0000 C CNN
+F 1 "MX-NoLED" H 7083 4249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout-2u_with_stabilizer" H 6425 4075 60  0001 C CNN
+F 3 "" H 6425 4075 60  0001 C CNN
+	1    7050 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8-2u1
+U 1 1 6169F427
+P 7100 3100
+F 0 "MX8-2u1" H 7133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 3249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout-2u_with_stabilizer" H 6475 3075 60  0001 C CNN
+F 3 "" H 6475 3075 60  0001 C CNN
+	1    7100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 618E522A
+P 3850 1150
+F 0 "H1" H 3950 1196 50  0000 L CNN
+F 1 "MountingHole" H 3950 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 3850 1150 50  0001 C CNN
+F 3 "~" H 3850 1150 50  0001 C CNN
+	1    3850 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 618E614F
+P 3850 1350
+F 0 "H2" H 3950 1396 50  0000 L CNN
+F 1 "MountingHole" H 3950 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 3850 1350 50  0001 C CNN
+F 3 "~" H 3850 1350 50  0001 C CNN
+	1    3850 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 618E7016
+P 3850 1550
+F 0 "H3" H 3950 1596 50  0000 L CNN
+F 1 "MountingHole" H 3950 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 3850 1550 50  0001 C CNN
+F 3 "~" H 3850 1550 50  0001 C CNN
+	1    3850 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 618E7362
+P 3850 1750
+F 0 "H4" H 3950 1796 50  0000 L CNN
+F 1 "MountingHole" H 3950 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 3850 1750 50  0001 C CNN
+F 3 "~" H 3850 1750 50  0001 C CNN
+	1    3850 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX16
+U 1 1 6152D8FC
+P 6650 4100
+F 0 "MX16" H 6683 4323 60  0000 C CNN
+F 1 "MX-NoLED" H 6683 4249 20  0000 C CNN
+F 2 "Envoy:MX_Switch_Cutout_Square" H 6025 4075 60  0001 C CNN
+F 3 "" H 6025 4075 60  0001 C CNN
+	1    6650 4100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

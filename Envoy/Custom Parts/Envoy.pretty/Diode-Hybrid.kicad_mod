@@ -1,0 +1,55 @@
+(footprint "Diode-Hybrid" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 615852F3)
+  (attr smd)
+  (fp_text reference "D14" (at -0.0254 1.4 -180) (layer "B.SilkS")
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp e5a38c35-1681-423a-8d6d-6025fbdcb6a3)
+  )
+  (fp_text value "D_Small" (at 0 -1.925 -180) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp bf7ad6c1-e9db-425c-b57d-04ff083c8bd8)
+  )
+  (fp_line (start 0.35 0) (end -0.35 0.55) (layer "B.SilkS") (width 0.12) (tstamp 045a0ebf-5879-4e34-8092-2bb043dec578))
+  (fp_line (start 0.35 0.55) (end 0.35 -0.55) (layer "B.SilkS") (width 0.12) (tstamp 1ca9ec7e-813e-48db-b9af-8b3d3700800b))
+  (fp_line (start -2.9 0.762) (end 2.54 0.762) (layer "B.SilkS") (width 0.15) (tstamp 1dede51c-160a-4d62-a266-19cb7e0b5fb2))
+  (fp_line (start 2.54 -0.762) (end -2.9 -0.762) (layer "B.SilkS") (width 0.15) (tstamp 4c69adf8-66d9-4c34-bc97-64222d6a5413))
+  (fp_line (start -0.35 0.55) (end -0.35 -0.55) (layer "B.SilkS") (width 0.12) (tstamp c799f5d5-1897-4d75-a887-aa241c575f29))
+  (fp_line (start -2.9 -0.762) (end -2.9 0.762) (layer "B.SilkS") (width 0.15) (tstamp e8d5ce89-57fd-4de8-aa4b-a52a89312dc1))
+  (fp_line (start -0.35 -0.55) (end 0.35 0) (layer "B.SilkS") (width 0.12) (tstamp f4653d66-fc22-4516-b59b-f27d10c065e2))
+  (fp_rect (start 2.309 -0.762) (end 2.921 0.762) (layer "B.SilkS") (width 0.15) (fill solid) (tstamp 61f47ee7-8111-4156-a4d1-599675470d25))
+  (fp_line (start 0.35 -0.55) (end 0.35 0.55) (layer "F.SilkS") (width 0.12) (tstamp 0b2e6512-58a9-4df8-8c43-18070d14135d))
+  (fp_line (start -0.35 0) (end -3.035 0) (layer "F.SilkS") (width 0.12) (tstamp 318a6f5a-a7bf-4503-9be8-8da6a3280a8d))
+  (fp_line (start -0.35 0.55) (end 0.35 0) (layer "F.SilkS") (width 0.12) (tstamp 37a3e275-86cf-4291-97bc-b0a6b2ce676d))
+  (fp_line (start 0.35 0) (end 3.04 0) (layer "F.SilkS") (width 0.12) (tstamp 842d94c4-155b-4111-824e-73d1f7602a17))
+  (fp_line (start 0.35 0) (end -0.35 -0.55) (layer "F.SilkS") (width 0.12) (tstamp 9368e1f5-f517-4146-aa32-92a211e338d7))
+  (fp_line (start -0.35 -0.55) (end -0.35 0.55) (layer "F.SilkS") (width 0.12) (tstamp 9cefc7d2-991e-4b6f-a23d-391e0203d092))
+  (fp_rect (start 3.04 -0.86) (end 4.76 0.86) (layer "F.SilkS") (width 0.12) (fill none) (tstamp a74a1d26-8328-45a1-8956-3d40f31593f6))
+  (fp_circle (center -3.9 0) (end -3.035 0) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 276c4a4b-5ec1-4049-8088-15bba03a88f2))
+  (pad "1" smd rect (at 1.4 0) (size 1.6 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 126c05c5-2dd1-4bab-9140-35bda72786f6))
+  (pad "1" thru_hole rect (at 3.9 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp c3b01302-1c8c-485f-b4e4-47e069b7a8bc))
+  (pad "1" smd rect (at 2.5 0) (size 2.9 0.5) (layers "B.Cu") (tstamp c491b477-fa69-48b5-b45e-3046b012ab1d))
+  (pad "2" thru_hole circle (at -3.9 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 64257270-4ea5-4475-97db-70e3e08b2953))
+  (pad "2" smd rect (at -1.4 0) (size 1.6 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp cdd0c4e7-8cf3-4215-85d2-21cb944eb9e2))
+  (pad "2" smd rect (at -2.5 0) (size 2.9 0.5) (layers "B.Cu") (tstamp fa529614-5b83-4335-9877-a9624f97d2e4))
+  (group "" (id 46b4c204-e4e7-428c-a7ac-e12cf295eec5)
+    (members
+      0b2e6512-58a9-4df8-8c43-18070d14135d
+      37a3e275-86cf-4291-97bc-b0a6b2ce676d
+      9368e1f5-f517-4146-aa32-92a211e338d7
+      9cefc7d2-991e-4b6f-a23d-391e0203d092
+    )
+  )
+  (group "" (id e2785f3b-fb7b-4fa9-8256-90530bd94bad)
+    (members
+      045a0ebf-5879-4e34-8092-2bb043dec578
+      1ca9ec7e-813e-48db-b9af-8b3d3700800b
+      c799f5d5-1897-4d75-a887-aa241c575f29
+      f4653d66-fc22-4516-b59b-f27d10c065e2
+    )
+  )
+  (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.step"
+    (offset (xyz 0 0 -1.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+)

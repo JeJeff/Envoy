@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# BumperPad
+#
+DEF BumperPad B 0 40 Y Y 1 F N
+F0 "B" 0 0 50 H V C CNN
+F1 "BumperPad" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 71 0 1 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library
