@@ -1,4 +1,4 @@
-19953348484191154
+19974653591576938
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50778,6 +50778,20 @@ Envoy_icon_10mm
 0
 0
 Envoy
+Envoy_logo_50mm
+
+
+0
+0
+0
+Envoy
+Envoy_name_80mm
+
+
+0
+0
+0
+Envoy
 Keyboard_conical_foot
 
 
@@ -50848,6 +50862,13 @@ MX_Switch_Cutout-2u_with_stabilizer
 0
 0
 Envoy
+MX_Switch_Cutout-2u_with_stabilizer_edge
+
+
+0
+0
+0
+Envoy
 MX_Switch_Cutout-2u_with_stabilizer_nibbles
 
 
@@ -50855,7 +50876,56 @@ MX_Switch_Cutout-2u_with_stabilizer_nibbles
 0
 0
 Envoy
+MX_Switch_Cutout-Combo-2u_2x1u
+
+
+0
+0
+0
+Envoy
 MX_Switch_Cutout_Square
+
+
+0
+0
+0
+Envoy
+Macro_Pad_Text_lowercase_32mm
+
+
+0
+0
+0
+Envoy
+MountingHole_Reinforced_2.5mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+1
+0
+Envoy
+OLED_0.91_cutout
+Connecteur 6 pins
+CONN DEV
+0
+0
+0
+Envoy
+Piccolo_Macro_Pad_text_5mm
+
+
+0
+0
+0
+Envoy
+Piccolo_Macro_Pad_text_30mm
+
+
+0
+0
+0
+Envoy
+Piccolo_icon_100mm
 
 
 0
@@ -50907,6 +50977,27 @@ Envoy
 RotaryEncoder_Cutout
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
+0
+0
+0
+Envoy
+macroo_pad_text_36mm
+
+
+0
+0
+0
+Envoy
+piccolo_logo_100mm
+
+
+0
+0
+0
+Envoy
+piccolo_logo_100mm_mask
+
+
 0
 0
 0
