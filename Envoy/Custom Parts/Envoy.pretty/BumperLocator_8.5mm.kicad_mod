@@ -1,20 +1,20 @@
 (footprint "BumperLocator_8.5mm" (version 20210925) (generator pcbnew) (layer "F.Cu")
-  (tedit 6154DFB5)
+  (tedit 61811485)
   (property "Sheetfile" "Envoy-Backplate.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
-  (fp_text reference "B1" (at 0 0.5) (layer "F.SilkS") hide
+  (fp_text reference "B2" (at 0 0.5) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 888c0897-bcac-4145-bb43-bc07a2486e89)
+    (tstamp d86246f6-d878-427e-988a-de3f97703f5f)
   )
   (fp_text value "BumperPad" (at 0 -0.5) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp de17d238-5eb6-479d-8810-edb3afc2ddcf)
+    (tstamp d0241c23-405c-4ff2-8988-1c93c215eaf4)
   )
-  (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 48d64c15-3a20-45f3-8098-a72e10d2b471) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 0e21e468-4116-4aea-8144-e87fa14927d2) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts

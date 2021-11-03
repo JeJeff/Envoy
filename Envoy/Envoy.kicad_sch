@@ -491,7 +491,6 @@
     )
   )
 
-
   (junction (at 36.83 48.26) (diameter 0) (color 0 0 0 0))
   (junction (at 114.3 71.12) (diameter 0) (color 0 0 0 0))
   (junction (at 114.3 83.82) (diameter 0) (color 0 0 0 0))
@@ -1641,7 +1640,7 @@
     (property "Value" "MountingHole" (id 1) (at 100.33 30.353 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Envoy:ClearanceHole_3.7mm" (id 2) (at 97.79 29.21 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 97.79 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.79 29.21 0)
@@ -1658,7 +1657,7 @@
     (property "Value" "MountingHole" (id 1) (at 100.33 35.433 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Envoy:ClearanceHole_3.7mm" (id 2) (at 97.79 34.29 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 97.79 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.79 34.29 0)
@@ -1675,7 +1674,7 @@
     (property "Value" "MountingHole" (id 1) (at 100.33 40.513 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Envoy:ClearanceHole_3.7mm" (id 2) (at 97.79 39.37 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 97.79 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.79 39.37 0)
@@ -1692,7 +1691,7 @@
     (property "Value" "MountingHole" (id 1) (at 100.33 45.593 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Envoy:ClearanceHole_3.7mm" (id 2) (at 97.79 44.45 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 97.79 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.79 44.45 0)
@@ -1988,7 +1987,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 154.5082 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Envoy:MXOnly-1U-HotswapReversed" (id 2) (at 137.795 104.775 0)
+    (property "Footprint" "Envoy:MXOnly-1U-Hotswap" (id 2) (at 137.795 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 137.795 104.775 0)
@@ -2026,7 +2025,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 169.7482 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Envoy:MXOnly-1U-Hotswap" (id 2) (at 153.035 66.675 0)
+    (property "Footprint" "Envoy:MXOnly-1U-HotswapReversed" (id 2) (at 153.035 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 153.035 66.675 0)
@@ -2102,7 +2101,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 169.7482 113.0554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Envoy:MXOnly-1U-Hotswap-2KeyAlternativeLeft" (id 2) (at 153.035 117.475 0)
+    (property "Footprint" "Envoy:MXOnly-1U-HotswapReversed-2KeyAlternativeLeft" (id 2) (at 153.035 117.475 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 153.035 117.475 0)
@@ -2377,16 +2376,16 @@
       (reference "ENC4") (unit 1) (value "Rotary_Encoder_Switch") (footprint "Keebio_parts:RotaryEncoder_EC11")
     )
     (path "/00000000-0000-0000-0000-0000618e522a"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "Envoy:ClearanceHole_3.7mm")
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-0000618e614f"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "Envoy:ClearanceHole_3.7mm")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-0000618e7016"
-      (reference "H3") (unit 1) (value "MountingHole") (footprint "Envoy:ClearanceHole_3.7mm")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-0000618e7362"
-      (reference "H4") (unit 1) (value "MountingHole") (footprint "Envoy:ClearanceHole_3.7mm")
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-000061511883"
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
@@ -2398,7 +2397,7 @@
       (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00006152424a"
-      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
+      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-HotswapReversed")
     )
     (path "/00000000-0000-0000-0000-00006152049e"
       (reference "MX5") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
@@ -2434,7 +2433,7 @@
       (reference "MX14") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00006152d914"
-      (reference "MX15") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-HotswapReversed")
+      (reference "MX15") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00006152d8fc"
       (reference "MX16") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap-2KeyAlternativeLeft")
@@ -2455,7 +2454,7 @@
       (reference "MX19") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-0000615324b8"
-      (reference "MX20") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-Hotswap-2KeyAlternativeLeft")
+      (reference "MX20") (unit 1) (value "MX-NoLED") (footprint "Envoy:MXOnly-1U-HotswapReversed-2KeyAlternativeLeft")
     )
     (path "/00000000-0000-0000-0000-00006150d40a"
       (reference "ProMicro1") (unit 1) (value "ProMicro") (footprint "Envoy:ProMicro_v3")

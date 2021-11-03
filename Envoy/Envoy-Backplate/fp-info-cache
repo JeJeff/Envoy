@@ -1,4 +1,4 @@
-19961520031612639
+19976292270645491
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50778,6 +50778,13 @@ Envoy_icon_10mm
 0
 0
 Envoy
+Envoy_icon_10mm_with_outline
+
+
+0
+0
+0
+Envoy
 Envoy_logo_50mm
 
 
@@ -50862,7 +50869,21 @@ MX_Switch_Cutout-2u_with_stabilizer
 0
 0
 Envoy
+MX_Switch_Cutout-2u_with_stabilizer_edge
+
+
+0
+0
+0
+Envoy
 MX_Switch_Cutout-2u_with_stabilizer_nibbles
+
+
+0
+0
+0
+Envoy
+MX_Switch_Cutout-Combo-2u_2x1u
 
 
 0
@@ -50888,6 +50909,34 @@ Mounting Hole 2.5mm, no annular
 mounting hole 2.5mm no annular
 0
 1
+0
+Envoy
+OLED_0.91_cutout
+Connecteur 6 pins
+CONN DEV
+0
+0
+0
+Envoy
+Piccolo_Macro_Pad_text_5mm
+
+
+0
+0
+0
+Envoy
+Piccolo_Macro_Pad_text_30mm
+
+
+0
+0
+0
+Envoy
+Piccolo_icon_100mm
+
+
+0
+0
 0
 Envoy
 ProMicro_double_sided
@@ -50940,6 +50989,20 @@ rotary encoder
 0
 Envoy
 macroo_pad_text_36mm
+
+
+0
+0
+0
+Envoy
+piccolo_logo_100mm
+
+
+0
+0
+0
+Envoy
+piccolo_logo_100mm_mask
 
 
 0
