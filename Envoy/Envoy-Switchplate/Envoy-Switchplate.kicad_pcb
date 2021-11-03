@@ -790,7 +790,7 @@
   )
 
   (footprint "Envoy:Envoy_icon_10mm" (layer "F.Cu")
-    (tedit 61800C38) (tstamp 70292f91-6293-4904-b028-f4b240622586)
+    (tedit 6182D898) (tstamp 70292f91-6293-4904-b028-f4b240622586)
     (at 176.4 149.8 45)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0 45) (layer "F.SilkS") hide
@@ -801,11 +801,11 @@
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 578ba944-c485-4677-89ef-0464bc1a1dba)
     )
-    (fp_line (start -4.64 -4.39) (end -4.64 4.41) (layer "F.SilkS") (width 0.12) (tstamp 0cd2affd-cc8b-4610-aa73-2f8905d75e42))
-    (fp_line (start -4.64 4.41) (end 2.83 4.41) (layer "F.SilkS") (width 0.12) (tstamp 2f29c924-144b-40cc-b3ba-1345cdb7e8f1))
-    (fp_line (start -4.64 -4.39) (end 4.66 -4.39) (layer "F.SilkS") (width 0.12) (tstamp 5d345a76-0f32-4b0b-a1c9-d6be4785aad7))
-    (fp_line (start 4.66 -4.39) (end 4.66 2.59) (layer "F.SilkS") (width 0.12) (tstamp 861af44e-b00a-48cd-bf89-7c1e8ac08a14))
-    (fp_arc (start 2.84 2.59) (end 4.66 2.59) (angle 90) (layer "F.SilkS") (width 0.12) (tstamp e173146b-06f8-42ac-894c-0f4a4aa4c787))
+    (fp_line (start -4.64 -4.39) (end -4.64 4.41) (layer "F.SilkS") (width 0.15) (tstamp 0cd2affd-cc8b-4610-aa73-2f8905d75e42))
+    (fp_line (start -4.64 4.41) (end 2.83 4.41) (layer "F.SilkS") (width 0.15) (tstamp 2f29c924-144b-40cc-b3ba-1345cdb7e8f1))
+    (fp_line (start -4.64 -4.39) (end 4.66 -4.39) (layer "F.SilkS") (width 0.15) (tstamp 5d345a76-0f32-4b0b-a1c9-d6be4785aad7))
+    (fp_line (start 4.66 -4.39) (end 4.66 2.59) (layer "F.SilkS") (width 0.15) (tstamp 861af44e-b00a-48cd-bf89-7c1e8ac08a14))
+    (fp_arc (start 2.84 2.59) (end 4.66 2.59) (angle 90) (layer "F.SilkS") (width 0.15) (tstamp e173146b-06f8-42ac-894c-0f4a4aa4c787))
     (fp_poly (pts
         (xy -2.804908 2.493252)
         (xy -4.402148 2.493252)
