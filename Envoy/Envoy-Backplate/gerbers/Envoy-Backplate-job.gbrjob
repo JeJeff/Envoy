@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(5.99.0-12610-g07e01e6297)"
     },
-    "CreationDate": "2021-10-01T22:51:39+01:00"
+    "CreationDate": "2021-11-07T17:03:59+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -27,8 +27,8 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "TrackToRegion": 0.508,
-      "RegionToRegion": 0.508
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
     }
   ],
   "FilesAttributes": [

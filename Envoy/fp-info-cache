@@ -1,4 +1,4 @@
-19974653481760036
+19981202199324407
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50778,6 +50778,13 @@ Envoy_icon_10mm
 0
 0
 Envoy
+Envoy_icon_10mm_with_outline
+
+
+0
+0
+0
+Envoy
 Envoy_logo_50mm
 
 
@@ -50890,6 +50897,13 @@ MX_Switch_Cutout_Square
 0
 0
 Envoy
+MX_Switch_Cutout_Square_fillets
+
+
+0
+0
+0
+Envoy
 Macro_Pad_Text_lowercase_32mm
 
 
@@ -50975,6 +50989,20 @@ Reset_Jumper_Points
 2
 Envoy
 RotaryEncoder_Cutout
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Envoy
+RotaryEncoder_Cutout_12.5x12.5
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Envoy
+RotaryEncoder_Cutout_12.5x12.5_fillets
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
 0
