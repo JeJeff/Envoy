@@ -1,5 +1,5 @@
 # Envoy
-Envoy is a numberpad that can also be built as a 20 key macropad.  It supports four encoders.intended for video conference control. 
+Envoy is a numberpad that can also be built as a 20 key macropad.  It supports four encoders. 
 
 ## Key features
 * 20 key macro pad
