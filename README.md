@@ -21,9 +21,9 @@ In approximate order of assembly.
 |          | PCB                      | 1        |
 | MX1-MX20 | Hotswap sockets          | 17-20    | 1 per keyswitch.
 | D1-D20   | 1N4148 Diode             | 21-24    | Both SMD (SOD-123) and through hole (DO-35) supported.
-| ENC1-ENC4| EC11 Rotary Encoder      | 4        | 
 |          | 12x1 male pin header     | 2        | For the pro micro
 | U1       | Pro Micro                | 1        | Or pin compatible controller.
+| ENC1-ENC4| EC11 Rotary Encoder      | 4        | 
 |          | 2u Stabilizer            | 0-3      | One required for each 2u key, 3 for a standard number pad configuration.
 |          | Backplate                | 1        | 
 |          | Aluminium cone feet      | 0 or 2   | If you want to raise the back and tilt the pad towards you.
