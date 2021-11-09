@@ -11,7 +11,7 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 
 ## Additional information
  * 2 layer PCB
- * Switchplate and backplate designs available
+ * Switch plate and back plate designs available
  * Both throughhole and SMD diodes supported
  
 ## Bill of materials
@@ -30,7 +30,7 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 |          |                          |          |
 |          | **Hardware**             |          |
 |          | Aluminium cone feet      | 0 or 2   | If you want to raise the back and tilt the pad towards you.
-|          | M2 standoff 12mm         | 4        | Max diameter 3.7mm, required when using back- and switch-plates.
+|          | M2 standoff 6mm          | 4        | 
 |          | M2 x 6mm flat head screw | 8        | Button head screws also work, could go as short as 4mm.
 |          | Rubber feet  (8mm)       | 2 or 4   | Only 2 needed if also using the cone feet.
 |          |                          |          |
