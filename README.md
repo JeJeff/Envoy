@@ -17,7 +17,6 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 ## Bill of materials
 |Reference | Item                     | Quantity | Notes
 |:--------:|--------------------------|:--------:|-------------------------------------
-|          |                          |          |
 |          | **Plates**               |          |
 |          | PCB                      | 1        |
 |          | Back plate               | 1        | 
