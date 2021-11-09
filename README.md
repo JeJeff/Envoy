@@ -31,4 +31,4 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 | D1-D20   | 1N4148 Diode             | 21-24    | Both SMD (SOD-123) and through hole (DO-35) supported.
 | U1       | Pro Micro                | 1        | Or pin compatible controller.
 |          | Aluminium cone feet      | 0 or 2   | Use if you want to raise the back tilt the pad towards you.
-|          | Rubber feet              | 2-4      | Only 2 needed if also using the cone feet.  8mm diameter works well
+|          | Rubber feet              | 2-4      | Only 2 needed if also using the cone feet.  Position markers on the backplate for 8mm diameter feet.
