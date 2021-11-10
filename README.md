@@ -2,8 +2,8 @@
 Envoy is a numberpad that can also be built as a 20 key macropad.  It supports four encoders. 
 
 ## Key features
-* 20 key macro pad
-* Supports MX style switches
+* 20 key macro pad or standard number pad configuration
+* Both 3 and 5 pin MX style switches supported
 * Hot swap sockets
 * Four rotary encoders
 * QMK controlled
