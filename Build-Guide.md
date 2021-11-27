@@ -119,4 +119,4 @@ There are four unmarked holes in the PCB.  They are easy to identify as they mat
 - Align the backplate with the standoffs and attach with M2 screws.
 
 ## Step 13 - Key caps
-- Add your keycaps of choice, and sit back with a sense of satisfaction.
+- Add your keycaps and encoder knobs of choice, and sit back with a sense of satisfaction.
