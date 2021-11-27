@@ -4,19 +4,14 @@ This is the short and sweet version of the build guide.  If you want more descri
 
 ## General instructions
 - All components will be soldered on the side with the related silk screen markings.
-- This guide sometimes needs to refer to particular keys.  It will reference a standard layout number pad to identify keys where this is necessary.
+- This guide sometimes needs to refer to particular keys.  It will reference a standard layout number pad to identify key locations where this is necessary.
 
-### Skippable diodes
-If you are using and double sized (2u) keys then you can skip some diodes.
-- A 2u plus key means you can skip D12
-- A 2u enter key means you can skip D20
-- a 2u zero key means you can skip D18
-
-### Skippable hotswap sockets
-If you are using and double sized (2u) keys then you can skip some diodes.
-- A 2u plus key means you can skip D12
-- A 2u enter key means you can skip D20
-- a 2u zero key means you can skip D18
+### Skippable Components
+ Key Location   | 2u (not split)          | 1u + 1u (split)
+ ---------------|-------------------------|----------------
+ Plus           | Skip D12, MX8 and MX12  | Skip MX8-2u1
+ Enter          | Skip D20, MX16 and MX10 | Skip MX16-2u1
+ Zero           | Skip D18, MX17 and MX18 | Skip MX17-2u1
 
 ## Build order
 1. Diodes D1-D24.  
