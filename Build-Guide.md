@@ -19,8 +19,11 @@ If you are using and double sized (2u) keys then you can skip some diodes.
 - A 2u plus key means you can skip D12
 - A 2u enter key means you can skip D20
 - a 2u zero key means you can skip D18
+
 (If you solder in these diodes but do not use the matching key switch it will not cause any problems).
+
 If using through hole diodes, then continue with step 2.1.
+
 If using only SMD diodes, then skip to step 2.2.
 
 ### Step 2.1 - Soldering through hole diodes
