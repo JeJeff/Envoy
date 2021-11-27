@@ -25,12 +25,12 @@ If you are using and double sized (2u) keys then you can skip some diodes.
 3. Pro Micro Headers ProMicro1.
 4. Encoders ENC1-ENC4. 
    - Remove the side legs from your encoder housing for ENC1 and ENC2.
-5. Pro Micro onto headers
+5. Pro Micro onto headers.
    - Clip the Pro Micro headers to size after soldering so the backplate can fit.
-6. Check operation
-7. 2u Stabilizers whereneeded 
-8. Attach standoffs to PCB (M2 screws)
-9. Switches into switchplate and PCB
-10. Attach feet to backplate
-11. Attach backplate to PCB via standoffs (M2 screws)
-12. Add Keycaps
+6. Check operation.
+7. 2u Stabilizers where needed.
+8. Attach standoffs to PCB (M2 screws).
+9. Switches into switchplate and PCB.
+10. Attach feet to backplate.
+11. Attach backplate to PCB via standoffs (M2 screws).
+12. Add Keycaps.
