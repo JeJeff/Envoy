@@ -28,4 +28,4 @@ This is the short and sweet version of the build guide.  If you want more descri
 9. Switches into switchplate and PCB.
 10. Attach feet to backplate.
 11. Attach backplate to PCB via standoffs (M2 screws).
-12. Add Keycaps.
+12. Add keycaps and encoder knobs.
