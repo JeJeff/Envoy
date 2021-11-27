@@ -22,9 +22,12 @@ If using through hole diodesm see step 2.1.
 If using SMD diodes, see skip to step 2.2.
 
 ### Step 2.1 - Soldering through hole diodes
-__Diodes have a specific orientation.__
-__If using through hole diodes the orientation is marked by the black line going around the diode body.__
+___NOTE: Diodes have a polarity.  They must be connected the correct way round.___
+
+__If using through hole diodes the polarity is marked by the black line going around the diode body.__
+
 __The line must be nearest the square pad.  The arrow in the silk screen markings points at the black line on the diode.__
+
 - Bend the diode legs close to the body to fit the hole spacing and insert diodes D1-D24 from the back of the board.  
 - Double check the polarity.  
 - Flip the board over so you can see the front (you may wish to use tape to hold the diodes in place).
@@ -32,23 +35,28 @@ __The line must be nearest the square pad.  The arrow in the silk screen marking
 - Clip the legs close to the board.
 
 ### Step 2.2 - Soldering SMD diodes
-__If using SMD diodes the orientation is indicated by a line on the diode body.  This line can be very hard to see.  Use magnification and good lighting, and check every diode before placement__
+___NOTE: Diodes have a  polarity.  They must be connected the correct way round.___
+
+__If using SMD diodes the polarity is indicated by a line on the diode body.  This line can be very hard to see.  Use magnification and good lighting, and check every diode before placement__
+
+__The line must be nearest the square pad.  The arrow in the silk screen markings points at the line on the diode.__
+
 - Tin one of the SMD pads for each diode D1-D24.
 - Hold each diode in place using tweezers and heat the pad whilst pushing the diode down so it settles into place.
 - Double check the polarity (it is much easier to fix problems without both ends being soldered).
 - Solder the other pad of each diode.
 
 ## Step 3 - Hotswap sockets
-_If you prefer to check functionality with the minimum components in place you could delay most of this step until after Step 8, but soldering MX4 at this point is recommended as the Pro Micro headers will obstruct access to solder MX4 later on._
+_If you prefer to check functionality with the minimum components in place you could delay most of this step until after Step 8, but soldering MX4 now is recommended as the Pro Micro headers will obstruct access to solder MX4 later on._
 
 You must use the correct socket placement for your required layout.  This should be obvious from looking at the board, but for completeness:
-- A 2u plus key must place a socket in MX8-2u1.  MX8 and MX12 must be skipped.
-- A split plus key must place sockets in MX8 and MX12.   MX8-2u1 must be skipped.
-- A 2u enter key must place a socket in MX16-2u1.  MX16 and MX10 must be skipped.
-- A split enter key must place sockets in MX16 and MX20.   MX16-2u1 must be skipped.
-- A 2u zero key must place a socket in MX17-2u1.  MX17 and MX18 must be skipped.
-- A split zero key must place sockets in MX17 and MX18.   MX17-2u1 must be skipped.w
 
+ Key Location   | 2u (not split)     | 1u + 1u (split)
+ ---------------|--------------------|----------------
+ Plus           | Skip MX8 and MX12  | Skip MX8-2u1
+ Enter          | Skip MX16 and MX10 | Skip MX16-2u1
+ Zero           | Skip MX17 and MX18 | Skip MX17-2u1
+ 
 ### Step 3.1 - Soldering hotswap sockets
 - Place sockets on the back of the board in all required locations MX1-MX20.
 - Solder one end of each socket.
