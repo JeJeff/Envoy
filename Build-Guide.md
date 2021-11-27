@@ -1,5 +1,7 @@
 # Envoy macro pad build guide
 
+This is the long version of the build guide.  If you know what you are doing and just want a simple build order you could use [the short version of the build guide](Build-Guide-Short.md).
+
 ## General instructions
 - All components will be soldered on the side with the related silk screen markings.
   - This means only encoders are placed on the front of the board.
@@ -17,7 +19,7 @@ If you are using and double sized (2u) keys then you can skip some diodes.
 - A 2u plus key means you can skip D12
 - A 2u enter key means you can skip D20
 - a 2u zero key means you can skip D18
-(If you solder in these diodes but do not use the matching key it will not cause any problems).
+(If you solder in these diodes but do not use the matching key switch it will not cause any problems).
 If using through hole diodesm see step 2.1.
 If using SMD diodes, see skip to step 2.2.
 
@@ -87,6 +89,7 @@ It can be a good idea to make sure the Pro Micro is in good condition before sol
 - Place the Pro Micro on the headers.  The components on the Pro Micro should face away from the Envoy PCB.
 - Check that none of the encoder pins are touching the pro micro.  Trim them if necessary.
 - Solder all the Pro Micro pins.  To avoid overheating either alternate sides, or solder every other pin and then go back for the rest.
+- Clip the protruding header pins so the backplate can fit.  Use good strong wire cutters for this, or at least accept that your flush cutters may get damaged.  Pin headers are much larger and stronger than diode legs.
 
 ## Step 8 - Check operation
 At this point everything required for basic operation is in place.  Check operation by using tweezers to short the pads for each keyswitch.
