@@ -6,7 +6,7 @@ This is the long version of the build guide.  If you know what you are doing and
 - All components will be soldered on the side with the related silk screen markings.
   - This means only encoders are placed on the front of the board.
   - All other components (diodes, hotswap sockets, pro micro) are placed on the back of the board
-- This guide sometimes needs to refer to particular keys.  It will reference a standard layout number pad to identify keys where this is necessary.
+- This guide sometimes needs to refer to particular keys.  It will reference a standard layout number pad to identify key locations where this is necessary.
 
 ## Step 1 - Choose your layout
 The Envoy supports a number pad layout, with double size (2u) zero, plus and enter keys, but all of these 2u keys can also be split into two single (1u) keys.  As a few examples, this means you could have:
@@ -20,8 +20,8 @@ If you are using and double sized (2u) keys then you can skip some diodes.
 - A 2u enter key means you can skip D20
 - a 2u zero key means you can skip D18
 (If you solder in these diodes but do not use the matching key switch it will not cause any problems).
-If using through hole diodesm see step 2.1.
-If using SMD diodes, see skip to step 2.2.
+If using through hole diodes, then continue with step 2.1.
+If using only SMD diodes, then skip to step 2.2.
 
 ### Step 2.1 - Soldering through hole diodes
 ___NOTE: Diodes have a polarity.  They must be connected the correct way round.___
