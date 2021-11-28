@@ -39,6 +39,13 @@ __The line must be nearest the square pad.  The arrow in the silk screen marking
 - Solder all the diodes.
 - Clip the legs close to the board.
 
+<details><summary>Photo showing diode placement</summary>
+  
+  
+![Diodes placed on an Envoy PCB](/images/build-guide/diodes.jpg)
+  
+</details>
+
 ### Step 2.2 - Soldering SMD diodes
 ___NOTE: Diodes have a  polarity.  They must be connected the correct way round.___
 
