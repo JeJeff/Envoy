@@ -2502,11 +2502,11 @@
   (gr_arc (start 100.901 144.488) (end 100.012 144.488) (angle -90) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-00006154c8b8))
   (gr_arc (start 194.5 50.889) (end 195.389 50.889) (angle -90) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-00006154c8b9))
   (gr_line (start 100.774 50) (end 194.5 50) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-00006154c8ba))
-  (gr_text "JLCJLCJLCJLC" (at 176.3 67.1) (layer "F.SilkS") (tstamp b5aa14cf-2434-490a-923d-693c01709f06)
+  (gr_text "JLCJLCJLCJLC" (at 183.3 67.1) (layer "F.SilkS") (tstamp b5aa14cf-2434-490a-923d-693c01709f06)
     (effects (font (size 0.85 0.85) (thickness 0.15)))
   )
   (gr_text "Envoy by JeJeff\nback plate\nrev 1.0" (at 189.9 57.55) (layer "F.Mask") (tstamp a193f25f-6667-4ca4-90b0-fc8826c9a8e5)
-    (effects (font (size 1 1) (thickness 0.15)) (justify right))
+    (effects (font (size 1 1) (thickness 0.2)) (justify right))
   )
 
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 00000000-0000-0000-0000-00006154c8bb) (hatch edge 0.508)
