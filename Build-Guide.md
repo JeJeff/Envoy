@@ -38,14 +38,9 @@ __The line must be nearest the square pad.  The arrow in the silk screen marking
 - Flip the board over so you can see the front (you may wish to use tape to hold the diodes in place).
 - Solder all the diodes.
 - Clip the legs close to the board.
-
-<details><summary>Photo showing diode placement</summary>
   
+![Through hole diodes on an Envoy PCB](/images/build-guide/diodes.jpg)
   
-![Diodes placed on an Envoy PCB](/images/build-guide/diodes.jpg)
-  
-</details>
-
 ### Step 2.2 - Soldering SMD diodes
 ___NOTE: Diodes have a  polarity.  They must be connected the correct way round.___
 
@@ -76,6 +71,8 @@ You must use the correct socket placement for your required layout.  This should
 - Inspect sockets from the other side of the board to double check they are properly flat (it is much easier to fix problems without both ends being soldered).
 - Solder the other end of each socket
 
+![Hotswap sockets on an Envoy PCB](/images/build-guide/hotswap-sockets.jpg)
+
 ## Step 4 - Solder Pro Micro headers
 - Insert the short end of both pin headers into the back of the board, and place the Pro Micro over the longer end to ensure good alignment.
 - Flip the board over so you can see the front.
@@ -83,6 +80,8 @@ You must use the correct socket placement for your required layout.  This should
 - Inspect and check that each header is properly seated and flush with the board, and that the Pro Micro fits nicely.  Reheat the soldered joint whilst pushing the header down to realign things if necessary.
 - Remove the Pro Micro.
 - Solder the rest of the pins.  To avoid overheating and melting the plastic either alternate sides, or solder every other pin and then go back for the rest.
+
+![Headers for the Pro Micro on an Envoy PCB](/images/build-guide/headers.jpg)
 
 ## Step 5 - Encoders
 You will need to remove the side legs from your encoder housing for ENC1 and ENC2.  This can be done by grabbing with pliers and bending back and forth until it just comes off through metal fatigue
