@@ -104,7 +104,7 @@ It can be a good idea to make sure the Pro Micro is in good condition before sol
 At this point everything required for basic operation is in place.  Check operation by using tweezers to short the pads for each keyswitch.
 
 ## Step 9 - Key stabilizers
-Each 2u keys should have a PCB mount stabilizer added.
+Each 2u key should have a PCB mount stabilizer added.
 - Insert the legs from the side where the stabilizer wire is into the larger hole, then the other end (where the screw thread is for screw in stabilizers) into the smaller hole
 - Inspect and make sure each stabilizer housing is fully inserted and flush with the board.
 - Secure with screws if not using clip-in stabilizers.
