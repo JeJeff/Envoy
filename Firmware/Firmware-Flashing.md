@@ -7,7 +7,7 @@ Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) to flash the firm
 4. Set the MCU field to 'atmega32u4'.
 5. Connect your the Pro Micro to your computer using USB.  You may need to wait whilst your operating system installs drivers.
 6. Short the two 'reset' pins on the rounded corner of the PCB.  You could use tweezers, or a short length of wire.
-7. You should see the yellow text similar to ```*** Caterina device connected (usbser): Microsoft USB Serial Device (COM6) (2341:0037:0001) [COM6]``` appear
+7. You should see the yellow text that starts ```*** Caterina device connected``` appear
 8. Click the 'Flash' button within 8 seconds.
 9. Wait as QMK Toolbox reads the Pro Micro, writes the new firmware, then verifies it was successful.
 10. Near the bottom you should get confirmation that it was verified successfully:
