@@ -47,7 +47,7 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 ## Firmware
 Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) to flash the firmware.
 
-1. Download the [recommended vial firmware here](Firmware/jejeff_envoy_vial.hex). 
+1. Download the [recommended vial firmware here](https://github.com/JeJeff/Envoy/raw/main/Firmware/jejeff_envoy_vial.hex). 
 2. Open the QMK Toolbox application.
 3. Under 'local file' select the downloaded jejeff_envoy_vial.hex file.
 4. Set the MCU field to 'atmega32u4'.
