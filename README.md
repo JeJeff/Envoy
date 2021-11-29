@@ -7,6 +7,7 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 * Hot swap sockets
 * Four rotary encoders
 * QMK controlled
+* Vial firmware
 * Easy to solder
 
 ## Additional information
