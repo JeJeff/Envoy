@@ -39,3 +39,19 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 |          | MX Switches              | 17-20    | 
 |          | Keycaps                  | 17-20    | 
 |          | Encoder knob             | 4        | Matching the encoder, max diameter 18mm.
+
+## Build Guide
+* [Long version with descriptions and tips](build-guide.md) 
+* [Short version which is not much more than a list of steos](build-guide-short.md)
+
+## Firmware
+Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) to flash the firmware.
+
+1. Download the [recommended vial firmware here](Firmware/jejeff_envoy_vial.hex). 
+2. Open the QMK Toolbox application.
+3. Under 'local file' select the downloaded jejeff_envoy_vial.hex file.
+4. Set the MCU field to 'atmega32u4'.
+5. Connect your the Pro Micro to your computer using USB.  You may need to wait whilst your operating system installs drivers.
+6. Short the two 'reset' pins on the rounded corner of the PCB.  You could use tweezers, or a short length of wire.
+7. 
+8. 
