@@ -31,9 +31,9 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 |          |                          |          |
 |          | **Hardware**             |          |
 |          | Aluminium cone feet      | 0 or 2   | If you want to raise the back and tilt the pad towards you.
-|          | M2 standoff 6mm          | 4        | 
+|          | M2 standoff 8mm          | 4        | 
 |          | M2 x 6mm flat head screw | 8        | Button head screws also work, could go as short as 4mm.
-|          | Rubber feet 8mm          | 2 or 4   | Only 2 needed if also using the cone feet.
+|          | Rubber feet 8mm diameter | 2 or 4   | Only 2 needed if also using the cone feet.
 |          |                          |          |
 |          | **Keys and Knobs**       |          |
 |          | 2u Stabilizer            | 0-3      | One required for each 2u key, 3 for a standard number pad configuration.
