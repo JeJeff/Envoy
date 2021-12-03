@@ -42,8 +42,8 @@ Envoy is a numberpad that can also be built as a 20 key macropad.  It supports f
 |          | Encoder knob             | 4        | Matching the encoder, max diameter 18mm.
 
 ## Build Guide
-* [Long version with descriptions and tips](build-guide.md) 
-* [Short version which is not much more than a list of steos](build-guide-short.md)
+* [Long version with descriptions and tips](Build-Guide.md) 
+* [Short version which is not much more than a list of steos](Build-Guide-Short.md)
 
 ## Firmware
 [See the firmware flashing guide](Firmware/Firmware-Flashing.md)
