@@ -1,6 +1,16 @@
 # Envoy
-Envoy is a numberpad that can also be built as a 20 key macropad.  It supports four encoders. 
+Envoy is a numberpad that can also be built as a 20 key macropad with support for four encoders. 
 ![Envoy numberpad and macropad](/images/photos/pads.jpg)
+
+<details>
+  <summary>PCB images</summary>
+  
+ ### PCB Front
+ ![Front of PCB](/images/pcb/pcb-front.png)
+ 
+ ### PCB Back
+ ![Back of PCB](/images/pcb/pcb-back.png)
+</details>
 
 ## Key features
 * 20 key macro pad or standard number pad configuration
