@@ -20,6 +20,3 @@ Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) to flash the firm
 11. Your Envoy macro pad is now ready to be configured in [Vial](https://get.vial.today/).
 
 ![QMK Toolbox window annotated with the above steps](../images/flash-guide/qmk-toolbox-postflash.png)
-
-
-1. Download the [recommended vial firmware here](https://raw.githubusercontent.com/JeJeff/Envoy/main/Firmware/jejeff_envoy_vial.hex) (right click > save link as...). 
