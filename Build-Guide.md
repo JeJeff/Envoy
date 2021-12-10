@@ -92,7 +92,7 @@ You will need to remove the side legs from your encoder housing for ENC1 and ENC
 - Solder the remaining pins
 
 ## Step 6 - Flash the Pro Micro 
-It can be a good idea to make sure the Pro Micro is in good condition before soldering it in place, so connect it to your computer and [flash your firmware of choice](Firmware/Firmware-Flashing.md). [Envoy Vial firmware recommended](https://github.com/JeJeff/Envoy/raw/main/Firmware/jejeff_envoy_vial.hex) (right click > save link as...).
+It can be a good idea to make sure the Pro Micro is in good condition before soldering it in place, so connect it to your computer and [flash your firmware of choice](Firmware/Firmware-Flashing.md). 
 
 ## Step 7 - Solder Pro Micro
 - Place the Pro Micro on the headers.  The components on the Pro Micro should face away from the Envoy PCB.
