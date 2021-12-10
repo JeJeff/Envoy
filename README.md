@@ -3,13 +3,23 @@ Envoy is a numberpad that can also be built as a 20 key macropad with support fo
 ![Envoy numberpad and macropad](/images/photos/pads.jpg)
 
 <details>
-  <summary>PCB images</summary>
+  <summary>Kicad images</summary>
   
  ### PCB Front
  ![Front of PCB](/images/pcb/pcb-front.png)
  
  ### PCB Back
  ![Back of PCB](/images/pcb/pcb-back.png)
+</details>
+
+<details>
+  <summary>PCB renders</summary>
+  
+ ### PCB Front
+ ![Front of PCB](/images/pcb/pcb-render-front.png)
+ 
+ ### PCB Back
+ ![Back of PCB](/images/pcb/pcb-render-back.png)
 </details>
 
 ## Key features
